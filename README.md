@@ -1,9 +1,20 @@
+
+---
+
 # 🏗 Scaffold-ETH 2
-[Portfolio](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
+
+* 🔗 **Portfolio:** [View on Speedrun Ethereum](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
+* 🔍 **Contract on Etherscan (Sepolia):** [0xB2afDAbb3A2e4D397DfC3Db33bd0f3253f871053](https://sepolia.etherscan.io/address/0xB2afDAbb3A2e4D397DfC3Db33bd0f3253f871053)
+
 <h4 align="center">
-  <a href="https://docs.scaffoldeth.io">Documentation</a> |
-  <a href="https://scaffoldeth.io">Website</a>
+  <a href="https://docs.scaffoldeth.io">📚 Documentation</a> |
+  <a href="https://scaffoldeth.io">🌐 Official Website</a>
 </h4>
+
+---
+
+Let me know if you'd like to add project details, a description, or screenshots.
+
 
 🧪 An open-source, up-to-date toolkit for building decentralized applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
