@@ -5,6 +5,7 @@
 
 * 🔗 **Portfolio:** [View on Speedrun Ethereum](https://speedrunethereum.com/builders/0x58ad103D0C0E69250CaC89Ddf0BDaD396914C411)
 * 🔍 **Contract on Etherscan (Sepolia):** [0xB2afDAbb3A2e4D397DfC3Db33bd0f3253f871053](https://sepolia.etherscan.io/address/0xB2afDAbb3A2e4D397DfC3Db33bd0f3253f871053)
+* 📁 **GitHub Repository:** [Challenge 0 – Simple NFT](https://github.com/giulianoojeda/challenge-0-simple-nft)
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">📚 Documentation</a> |
